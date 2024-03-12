@@ -29,6 +29,7 @@ export const sidebar: SidebarDefinition = [
       "cli-cmd-stop",
       "cli-cmd-status",
       "cli-cmd-browse",
+      "cli-cmd-reset",
       "cli-cmd-faucet",
       {
         label: "wallet",
